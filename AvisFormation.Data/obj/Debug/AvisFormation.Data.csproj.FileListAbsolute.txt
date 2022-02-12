@@ -1,0 +1,6 @@
+C:\Users\ASUS\Documents\AvisFormation.WebUi\AvisFormation.Data\bin\Debug\AvisFormation.Data.dll
+C:\Users\ASUS\Documents\AvisFormation.WebUi\AvisFormation.Data\bin\Debug\AvisFormation.Data.pdb
+C:\Users\ASUS\Documents\AvisFormation.WebUi\AvisFormation.Data\obj\Debug\AvisFormation.Data.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\AvisFormation.WebUi\AvisFormation.Data\obj\Debug\AvisFormation.Data.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\AvisFormation.WebUi\AvisFormation.Data\obj\Debug\AvisFormation.Data.dll
+C:\Users\ASUS\Documents\AvisFormation.WebUi\AvisFormation.Data\obj\Debug\AvisFormation.Data.pdb

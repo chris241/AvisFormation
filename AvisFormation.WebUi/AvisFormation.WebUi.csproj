@@ -252,6 +252,16 @@
     <Content Include="Scripts\jquery-3.4.1.slim.min.map" />
     <Content Include="Scripts\jquery-3.4.1.min.map" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AvisFormation.Data\AvisFormation.Data.csproj">
+      <Project>{721132f9-6d64-4f4a-82ca-db88aa6ace2c}</Project>
+      <Name>AvisFormation.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AvisFormation.Logic\AvisFormation.Logic.csproj">
+      <Project>{d5b8b9a4-7ca5-4bb3-a282-cabc1d7b5b73}</Project>
+      <Name>AvisFormation.Logic</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

@@ -125,3 +125,7 @@ C:\Users\ASUS\Documents\AvisFormation.WebUi\AvisFormation.WebUi\obj\Debug\AvisFo
 C:\Users\ASUS\Documents\AvisFormation.WebUi\AvisFormation.WebUi\obj\Debug\AvisFormation.WebUi.csproj.CopyComplete
 C:\Users\ASUS\Documents\AvisFormation.WebUi\AvisFormation.WebUi\obj\Debug\AvisFormation.WebUi.dll
 C:\Users\ASUS\Documents\AvisFormation.WebUi\AvisFormation.WebUi\obj\Debug\AvisFormation.WebUi.pdb
+C:\Users\ASUS\Documents\AvisFormation.WebUi\AvisFormation.WebUi\bin\AvisFormation.Data.dll
+C:\Users\ASUS\Documents\AvisFormation.WebUi\AvisFormation.WebUi\bin\AvisFormation.Logic.dll
+C:\Users\ASUS\Documents\AvisFormation.WebUi\AvisFormation.WebUi\bin\AvisFormation.Data.pdb
+C:\Users\ASUS\Documents\AvisFormation.WebUi\AvisFormation.WebUi\bin\AvisFormation.Logic.pdb

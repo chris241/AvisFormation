@@ -7,3 +7,11 @@ C:\Users\ASUS\Documents\AvisFormation.WebUi\AvisFormation.Logic\obj\Debug\AvisFo
 C:\Users\ASUS\Documents\AvisFormation.WebUi\AvisFormation.Logic\obj\Debug\AvisFormation.Logic.csproj.CopyComplete
 C:\Users\ASUS\Documents\AvisFormation.WebUi\AvisFormation.Logic\obj\Debug\AvisFormation.Logic.dll
 C:\Users\ASUS\Documents\AvisFormation.WebUi\AvisFormation.Logic\obj\Debug\AvisFormation.Logic.pdb
+C:\Users\ASUS\Documents\AvisFormation.WebUi\AvisFormation.Logic\bin\Debug\AvisFormation.Logic.dll.config
+C:\Users\ASUS\Documents\AvisFormation.WebUi\AvisFormation.Logic\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Documents\AvisFormation.WebUi\AvisFormation.Logic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Documents\AvisFormation.WebUi\AvisFormation.Logic\bin\Debug\AvisFormation.Data.dll.config
+C:\Users\ASUS\Documents\AvisFormation.WebUi\AvisFormation.Logic\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Documents\AvisFormation.WebUi\AvisFormation.Logic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Documents\AvisFormation.WebUi\AvisFormation.Logic\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\ASUS\Documents\AvisFormation.WebUi\AvisFormation.Logic\bin\Debug\fr\EntityFramework.SqlServer.resources.dll

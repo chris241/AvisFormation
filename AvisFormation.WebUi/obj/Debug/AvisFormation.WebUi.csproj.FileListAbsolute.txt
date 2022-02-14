@@ -129,3 +129,5 @@ C:\Users\ASUS\Documents\AvisFormation.WebUi\AvisFormation.WebUi\bin\AvisFormatio
 C:\Users\ASUS\Documents\AvisFormation.WebUi\AvisFormation.WebUi\bin\AvisFormation.Logic.dll
 C:\Users\ASUS\Documents\AvisFormation.WebUi\AvisFormation.WebUi\bin\AvisFormation.Data.pdb
 C:\Users\ASUS\Documents\AvisFormation.WebUi\AvisFormation.WebUi\bin\AvisFormation.Logic.pdb
+C:\Users\ASUS\Documents\AvisFormation.WebUi\AvisFormation.WebUi\bin\AvisFormation.Data.dll.config
+C:\Users\ASUS\Documents\AvisFormation.WebUi\AvisFormation.WebUi\bin\AvisFormation.Logic.dll.config

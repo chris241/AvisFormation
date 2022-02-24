@@ -25,7 +25,7 @@ namespace AvisFormation.Data
             throw new UnintentionalCodeFirstException();
         }
     
-        public virtual DbSet<Avis> Avis { get; set; }
         public virtual DbSet<Formation> Formation { get; set; }
+        public virtual DbSet<Avis> Avis { get; set; }
     }
 }

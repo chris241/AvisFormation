@@ -2,6 +2,7 @@
 @{
     ViewBag.Title = "Laissez un avis sur "+Model.FormationName;
 }
+<p>Laissez un avis sur cette formation @Model.FormationName </p>
 @using(Html.BeginForm("SaveComment","Avis",FormMethod.Post))
             {
                 <label>Nom :</label>

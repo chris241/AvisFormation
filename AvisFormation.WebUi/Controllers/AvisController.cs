@@ -2,6 +2,7 @@
 using AvisFormation.WebUi.Models;
 using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
@@ -33,8 +34,8 @@ namespace AvisFormation.WebUi.Controllers
             nouvelAvis.Description = commentaire;
      
             nouvelAvis.Nom = nom;
-            Byte bNote = 0;
-            if(!Byte.TryParse(note, out bNote))
+            double bNote = 0;
+            if(!double.TryParse(note,NumberStyles.Any, CultureInfo.InvariantCulture, out bNote))
             {
                 throw new Exception("Impossible de parser la note " + note);
             }
@@ -51,7 +52,7 @@ namespace AvisFormation.WebUi.Controllers
                 context.SaveChanges();
 
             }
-            return View();
+            return RedirectToAction("DetailsFormation","Formation", new { nomSeo = nomSeo });
         }
     }
 }
